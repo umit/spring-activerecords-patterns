@@ -1,0 +1,16 @@
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Java #
+*.class
+
+# Package Files #
+*.jar
+
+.DS_Store
+target/*
+.project
+.settings/*
+.classpath
